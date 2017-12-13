@@ -1,3 +1,6 @@
+# This project is deprecated!!
+## Lastest version(v1.3) of [D2Coding Font](https://github.com/naver/d2codingfont) offically support powerline symbols. Please use official version.
+ 
 #D2 Coding Powerline
 
 * Source:	[naver/d2codingfont](https://github.com/naver/d2codingfont)
